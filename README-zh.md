@@ -1,5 +1,9 @@
 # 克拉尼板
 
+网页在 https://yanhuifair.github.io/ChladniPlate/
+
+![alt text](image/1.png)
+
 实时、音频驱动的克拉尼板粒子可视化。沙粒粒子沿克拉尼驻波场的梯度滑动，
 最终沉降在节线（ψ=0）上；图形会**随你播放的内容实时连续变形**。
 
